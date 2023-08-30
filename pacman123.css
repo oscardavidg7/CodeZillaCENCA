@@ -1,0 +1,20 @@
+.container {
+    margin: auto;
+    position: relative;
+}
+#canvas1 {
+    background-color: rgb(223, 154, 15);
+}
+html{
+    background-color: rgb(247, 247, 195);
+}
+h1{
+font-family: 'Borel', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+font-family: 'Vina Sans', cursive;
+background-color: rgb(182, 182, 231);
+height: 25%;
+width: 25%;
+}
